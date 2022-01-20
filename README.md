@@ -1,2 +1,2 @@
-# belajar-git
-Belajar Git
+# Gbelajar GitHub
+Belajar Git untuk Proyek dari PT. Tripilar Betonmas
